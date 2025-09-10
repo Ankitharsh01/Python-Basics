@@ -1,6 +1,6 @@
 # 🐍 Python Basics – My Notes ✍️
 
-Hey 👋 This repo is like my handwritten notes for learning Python step by step.  
+Hey  This repo is like my handwritten notes for learning Python step by step.  
 I’m writing everything in a simple way so that anyone (including me in the future 😅) can revise easily.
 
 ---
